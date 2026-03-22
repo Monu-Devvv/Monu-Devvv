@@ -1,22 +1,101 @@
-<h1 align="center">Hi 👋, I'm MONU</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Monu! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockmonu-45" alt="rockmonu-45" /></a> </p>
+> *"Code is like poetry — every line tells a story"* ✨
 
-- 🌱 I’m currently learning **Node.js , Express.js , MongoDB, JAVA**
+🌍 From **India** &nbsp;|&nbsp; 💻 **MERN Stack Developer** &nbsp;|&nbsp; ☕ **Java + DSA Enthusiast**
 
-- 📫 How to reach me **monudavy@icloud.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/monu-~-b79a98362/?lipi=urn%3ali%3apage%3ad_flagship3_profile_verification_details%3bizwueljorfspctz9pg%2b82a%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monu-~-b79a98362/?lipi=urn%3ali%3apage%3ad_flagship3_profile_verification_details%3bizwueljorfspctz9pg%2b82a%3d%3d" height="30" width="40" /></a>
-</p>
+## 🌷 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🧑‍💻 I build full-stack web apps with the **MERN stack**
+- ☕ Currently sharpening my **DSA skills in Java**
+- 🌱 Always learning something new every single day
+- 💬 Ask me about **React, Node.js, MongoDB, or Java**
+- 🎯 Goal: Write clean code & solve hard problems
+- 🇮🇳 Proudly building from India!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockmonu-45&show_icons=true&locale=en&layout=compact" alt="rockmonu-45" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockmonu-45&show_icons=true&locale=en" alt="rockmonu-45" /></p>
+## 🍬 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockmonu-45&" alt="rockmonu-45" /></p>
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**🌿 Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**🍃 Database & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**🧩 DSA**
+
+![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)
+
+---
+
+## 🌸 GitHub Stats
+
+<div align="center">
+
+![Monu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monu&show_icons=true&theme=rose_pine&hide_border=true&title_color=f38ba8&icon_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monu&layout=compact&theme=rose_pine&hide_border=true&title_color=f38ba8&text_color=cdd6f4&bg_color=1e1e2e)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=monu&theme=rose-pine&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=monu&theme=rosepine&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
+
+</div>
+
+---
+
+##  Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-f38ba8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monu~)
+[![LeetCode](https://img.shields.io/badge/LeetCode-fab387?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=for-the-badge&logo=gmail&logoColor=white)](monudavy@icloud.com)
+
+</div>
+
+---
+
+<div align="center">
+
+💖 *Thanks for stopping by! Happy coding!* 💖
+
+![Visitor Count](https://komarev.com/ghpvc/?username=monu&color=f38ba8&style=flat-square&label=visitors)
+
+</div>
