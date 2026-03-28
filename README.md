@@ -86,7 +86,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-f38ba8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monu~)
 [![LeetCode](https://img.shields.io/badge/LeetCode-fab387?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=for-the-badge&logo=gmail&logoColor=white)](monudavy@icloud.com)
+[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=for-the-badge&logo=gmail&logoColor=white)](monu.devvv@gmail.com)
 
 </div>
 
