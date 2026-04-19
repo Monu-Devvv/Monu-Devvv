@@ -9,9 +9,9 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=flat-square&logo=github&logoColor=c0caf5)](https://github.com/Monu-Devvv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1b27?style=flat-square&logo=instagram&logoColor=f7768e)](https://instagram.com/YOUR_INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=flat-square&logo=gmail&logoColor=f7768e)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/Monu-Devvv)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1b27?style=flat-square&logo=instagram&logoColor=f7768e)](https://instagram.com/monu_devvv)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=flat-square&logo=gmail&logoColor=f7768e)](mailto:monu.devvv@gmail.com)
 
 <br/>
 
