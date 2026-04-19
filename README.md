@@ -1,101 +1,97 @@
-# Hi there, I'm Monu! 👋
-
-> *"Code is like poetry — every line tells a story"* ✨
-
-🌍 From **India** &nbsp;|&nbsp; 💻 **MERN Stack Developer** &nbsp;|&nbsp; ☕ **Java + DSA Enthusiast**
-
----
-
-## 🌷 About Me
-
-- 🧑‍💻 I build full-stack web apps with the **MERN stack**
-- ☕ Currently sharpening my **DSA skills in Java**
-- 🌱 Always learning something new every single day
-- 💬 Ask me about **React, Node.js, MongoDB, or Java**
-- 🎯 Goal: Write clean code & solve hard problems
-- 🇮🇳 Proudly building from India!
-
----
-
-## 🍬 Tech Stack
-
-**🎨 Frontend**
-
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**🌿 Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**🍃 Database & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**🧩 DSA**
-
-![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)
-
----
-
-## 🌸 GitHub Stats
-
 <div align="center">
 
-![Monu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monu&show_icons=true&theme=rose_pine&hide_border=true&title_color=f38ba8&icon_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e)
+# Hey, I’m Monu 👨‍💻
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monu&layout=compact&theme=rose_pine&hide_border=true&title_color=f38ba8&text_color=cdd6f4&bg_color=1e1e2e)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Java+%2B+DSA+Problem+Solver;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=monu&theme=rose-pine&hide_border=true)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
 
 </div>
 
----
+-----
 
-## 🏆 Trophies
+## 🧑‍💻 About Me
+
+- 🔭 Building full-stack apps with the **MERN stack**
+- ⚔️ Sharpening **DSA skills** in Java daily
+- 🌱 Exploring **TypeScript** & **React Native**
+- 🇮🇳 Based in India  |  💡 Open to collaborations
+
+-----
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=monu&theme=rosepine&no-frame=true&row=1&column=7)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,reactrouter,vite,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,netlify,vercel&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
+-----
 
-
-## 💭 Random Dev Quote
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
----
+-----
 
-##  Let's Connect!
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-f38ba8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monu~)
-[![LeetCode](https://img.shields.io/badge/LeetCode-fab387?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=for-the-badge&logo=gmail&logoColor=white)](monu.devvv@gmail.com)
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
----
+-----
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-💖 *Thanks for stopping by! Happy coding!* 💖
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=monu&color=f38ba8&style=flat-square&label=visitors)
+
+> Set up the snake via [Platane/snk](https://github.com/Platane/snk) GitHub Action
+
+</div>
+
+-----
+
+## 💬 Dev Quote
+
+<div align="center">
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+-----
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=70A5FD&label=Profile+Views)
+
+*Thanks for visiting — let’s build something great together!* 🚀
 
 </div>
