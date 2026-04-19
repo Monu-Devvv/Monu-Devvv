@@ -9,9 +9,10 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=flat-square&logo=github&logoColor=c0caf5)](https://github.com/Monu-Devvv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/Monu-Devvv)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1b27?style=flat-square&logo=instagram&logoColor=f7768e)](https://instagram.com/monu_devvv)
-[![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=flat-square&logo=gmail&logoColor=f7768e)](mailto:monu.devvv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1b27?style=flat-square&logo=instagram&logoColor=f7768e)](https://instagram.com/YOUR_INSTAGRAM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=flat-square&logo=vercel&logoColor=bb9af7)](https://YOUR_PORTFOLIO_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=flat-square&logo=gmail&logoColor=f7768e)](mailto:YOUR_EMAIL)
 
 <br/>
 
@@ -34,6 +35,47 @@ const monu = {
   goal      : "Product-Based Tech Job 🎯",
 };
 ```
+
+-----
+
+## 🌐 Portfolio Website
+
+<div align="center">
+
+[![Portfolio Badge](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-1a1b27?style=for-the-badge&logoColor=bb9af7)](https://YOUR_PORTFOLIO_URL)
+
+> 💡 *My portfolio showcases all my projects, skills, and experience.*
+> 🔗 **Link:** [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)
+
+<!--
+  👆 Replace YOUR_PORTFOLIO_URL with your actual portfolio link
+  Example: https://monu-devvv.netlify.app
+-->
+
+</div>
+
+-----
+
+## 📄 Resume
+
+<div align="center">
+
+
+> 📌 *Click below to view my latest resume — opens directly in browser*
+
+[![View Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-1a1b27?style=for-the-badge&logo=googledrive&logoColor=7aa2f7)](https://YOUR_GOOGLE_DRIVE_PREVIEW_LINK)
+
+</div>
+
+<!--
+  HOW TO GET YOUR GOOGLE DRIVE PREVIEW LINK:
+  1. Upload your resume PDF to Google Drive
+  2. Right click → Share → change to "Anyone with the link"
+  3. Copy the link — it looks like:
+     https://drive.google.com/file/d/FILE_ID/view?usp=sharing
+  4. Replace YOUR_GOOGLE_DRIVE_PREVIEW_LINK above with that URL
+  The viewer opens directly in browser — no download forced ✅
+-->
 
 -----
 
@@ -129,6 +171,7 @@ const monu = {
 
 ## 🐍 Contribution Snake
 
+> ⚠️ **Setup required once** — create `.github/workflows/snake.yml` in this repo. [See instructions →](https://github.com/Platane/snk)
 
 <div align="center">
 
