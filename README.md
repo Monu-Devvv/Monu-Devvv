@@ -63,7 +63,7 @@ const monu = {
 
 > 📌 *Click below to view my latest resume — opens directly in browser*
 
-[![View Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-1a1b27?style=for-the-badge&logo=googledrive&logoColor=7aa2f7)](https://YOUR_GOOGLE_DRIVE_PREVIEW_LINK)
+[![View Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-1a1b27?style=for-the-badge&logo=googledrive&logoColor=7aa2f7)](https://drive.google.com/file/d/1GlBEr9Kko-Tpd-Hs2-5cOwWBXp5N1jmB/view?usp=drivesdk)
 
 </div>
 
