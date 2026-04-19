@@ -176,7 +176,13 @@ const monu = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Monu-Devvv&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues"/>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Monu-Devvv&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</p>
 
 </div>
 
