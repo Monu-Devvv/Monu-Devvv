@@ -171,7 +171,6 @@ const monu = {
 
 ## 🐍 Contribution Snake
 
-> ⚠️ **Setup required once** — create `.github/workflows/snake.yml` in this repo. [See instructions →](https://github.com/Platane/snk)
 
 <div align="center">
 
