@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=flat-square&logo=github&logoColor=c0caf5)](https://github.com/Monu-Devvv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/Monu-Devvv)
 [![Instagram](https://img.shields.io/badge/Instagram-1a1b27?style=flat-square&logo=instagram&logoColor=f7768e)](https://instagram.com/monu_devvv)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=flat-square&logo=vercel&logoColor=bb9af7)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=flat-square&logo=vercel&logoColor=bb9af7)](https://professional-portfolio-sp0n.onrender.com)
 [![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=flat-square&logo=gmail&logoColor=f7768e)](mailto:monu.devvv@gmail.com)
 
 <br/>
@@ -42,10 +42,10 @@ const monu = {
 
 <div align="center">
 
-[![Portfolio Badge](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-1a1b27?style=for-the-badge&logoColor=bb9af7)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio Badge](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-1a1b27?style=for-the-badge&logoColor=bb9af7)](https://professional-portfolio-sp0n.onrender.com)
 
 > 💡 *My portfolio showcases all my projects, skills, and experience.*
-> 🔗 **Link:** [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)
+> 🔗 **Link:** [YOUR_PORTFOLIO_URL](https://professional-portfolio-sp0n.onrender.com)
 
 <!--
   👆 Replace YOUR_PORTFOLIO_URL with your actual portfolio link
