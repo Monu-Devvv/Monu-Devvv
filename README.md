@@ -29,7 +29,7 @@ const monu = {
   location  : "Agra, India 🇮🇳",
   education : "BCA Final Year — Manorama Institute of Technology",
   role      : "MERN Stack Developer",
-  projects  : ["HMBurger 🍔", "ShopGlass 🛒", "Notes App 📝", "Gojo Music 🎵"],
+  projects  : ["HMBurger 🍔", "Notes App 📝", "Gojo Music 🎵"],
   learning  : ["TypeScript", "System Design", "React Native"],
   dsa       : "LeetCode grind in Java ⚔️",
   goal      : "Product-Based Tech Job 🎯",
